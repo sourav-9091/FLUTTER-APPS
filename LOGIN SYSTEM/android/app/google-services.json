@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023621339048",
+    "project_id": "pass-kiit-4029",
+    "storage_bucket": "pass-kiit-4029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023621339048:android:c837c2403b6f4c62c66f9d",
+        "android_client_info": {
+          "package_name": "com.UnknownClub.pass_serivces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023621339048-8ha4vh630quc76q3v816kmv1o397puqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIfc_zZkdrbzc1hPMnsULsj0zygf9_u-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023621339048-8ha4vh630quc76q3v816kmv1o397puqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
